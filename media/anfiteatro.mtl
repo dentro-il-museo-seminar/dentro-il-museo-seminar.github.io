@@ -1,0 +1,372 @@
+# Created By Carrara 8.0
+
+newmtl Anfi_verde
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_verde.jpg
+
+newmtl Anfi_arena_terreno
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_arena_terreno.jpg
+
+newmtl Anfi_gradinata1
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_gradinata1.jpg
+
+newmtl Anfi_gradinata1_1
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_gradinata11.jpg
+
+newmtl Anfi_gradinata1_2
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_gradinata12.jpg
+
+newmtl Anfi_parapetto
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_parapetto.jpg
+
+newmtl Anfi_gradinata2
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_gradinata2.jpg
+
+newmtl Anfi_gradinata3
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_gradinata3.jpg
+
+newmtl Anfi_muraperimetrali
+ Ns 45
+ d 0.326733
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_muraperimetrali.jpg
+
+newmtl Anfi_sottotetto
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_sottotetto.jpg
+
+newmtl Anfi_tunnel_gradoni_single
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_tunnel_gradoni_single.jpg
+
+newmtl Anfi_arena_pavimento
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_arena_pavimento.jpg
+
+newmtl Anfi_paraste
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_paraste.jpg
+
+newmtl Anfi_ingressi_inferiori
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_ingressi_inferiori.jpg
+
+newmtl Anfi_colonna_portico_3
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_colonna_portico_3.jpg
+
+newmtl Anfi_capitello_portico_3
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_capitello_portico_3.jpg
+
+newmtl Anfi_capitello_portico_4
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_capitello_portico_4.jpg
+
+newmtl Anfi_colonna_portico_4
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_colonna_portico_4.jpg
+
+newmtl Anfi_capitello_portico_2
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_capitello_portico_2.jpg
+
+newmtl Anfi_colonna_portico_2
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_colonna_portico_2.jpg
+
+newmtl Anfi_capitello_portico_1
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_capitello_portico_1.jpg
+
+newmtl Anfi_colonna_portico_1
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_colonna_portico_1.jpg
+
+newmtl Anfi_coronamento_inferiore
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_coronamento_inferiore.jpg
+
+newmtl Anfi_muro_perimetraleingresso2
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_muro_perimetraleingresso2.jpg
+
+newmtl Anfi_muro_perimetrale2
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_muro_perimetrale2.jpg
+
+newmtl Anfi_ingresso_arena_lato_maggio
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_ingresso_arena_lato_maggio.jpg
+
+newmtl Anfi_scale_tunnel
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_scale_tunnel.jpg
+
+newmtl Anfi_tunnel_gradoni
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_tunnel_gradoni.jpg
+
+newmtl Anfi_ingressoarenalatominore
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_ingressoarenalatominore.jpg
+
+newmtl Anfi_cornici_aperture
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0.003922 0.007843
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_cornici_aperture.jpg
+
+newmtl Anfi_architrave_portico
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_architrave_portico.jpg
+
+newmtl tetto_portico
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd tetto_portico.jpg
+
+newmtl Anfi_muri_interni
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_muri_interni.jpg
+
+newmtl Anfi_tunnelarenalatominore
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_tunnelarenalatominore.jpg
+
+newmtl Anfi_capitelli_inferiori
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_capitelli_inferiori.jpg
+
+newmtl Anfi_coronamento_superiore
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_coronamento_superiore.jpg
+
+newmtl Anfi_mura_esterne
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Anfi_mura_esterne.jpg
+
